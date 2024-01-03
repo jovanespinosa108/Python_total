@@ -1,4 +1,4 @@
-"""El metodo index sirve para investigar que numero de indice tine cierto caracter
+"""El metodo index sirve para investigar que numero de indice tiene cierto caracter
 se hace por medio del metodo index(), pude buscar un caracter, una palabra, 
 es sensible a mayusculas, indices negativos se cuentan de derecha a izquireda
 pero el cero simpre es el primer caracter y despues va de atras hacia delante"""

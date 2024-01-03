@@ -32,7 +32,7 @@ print(eliminado) #imprime el objeto eliminado en lista f
 
 
 lista = ["f", "h", "p", "x", "b", "m"]
-lista.sort() #el metodo sort() ordena los objetos en la lista en
+lista.sort() #el metodo sort() ordena los objetos en la lista en orden alfabetico
 
 print(lista)  #regresa ['b', 'f', 'h', 'm', 'p', 'x']
 
